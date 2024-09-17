@@ -1,3 +1,7 @@
+theme: jekyll-theme-minimal
+title: A homepage that exists
+description: I will find out the color to the word intrigued.
+
 # Where things are
 source              : .
 destination         : ./_site
