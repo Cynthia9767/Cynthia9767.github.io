@@ -1,4 +1,5 @@
-# Cynthia9767.github.io
+# I'm writing words down.
 
-I'm writing words down.
-Question: what color is the word intrigued?
+**Question: what color is the word _intrigued?_**
+
+This is very important. I swear.
